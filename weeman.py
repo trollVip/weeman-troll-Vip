@@ -61,3 +61,9 @@ def  main ():
 
 if  __name__  ==  ' __main__ ' :
     principal()
+  
+# #
+# __init__.py - solo pasa
+# #
+
+pasar
