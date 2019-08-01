@@ -1,0 +1,18 @@
+# Crear y liberar carpetas
+bin-debug /
+bin-release /
+[ Oo ] bj /
+[ Bb ] en /
+
+# Otros archivos y carpetas
+.settings /
+
+# Ejecutables
+* .swf
+* .air
+* .ipa
+* .apk
+
+# Archivos de proyecto, es decir, `.project`,` .actionScriptProperties` y `.flexProperties`
+# NO debe excluirse ya que contienen configuraciones del compilador y otros datos importantes
+# información para Eclipse / Flash Builder
